@@ -7,18 +7,6 @@ When the user adds their database name, MySQL username, and MySQL password to an
 
 MySQL2 and Sequelize packages connect the Express.js API to a MySQL database. The dotenv package uses environmental variables to store sensitive data, such as the user's MySQL username, password, and database name. On server start, the application syncs Sequelize models of Category, Product, Tag, and ProductTag to a MySQL database and includes associations between these models.
 
-The associations are as follows:
-
-* Product belongs to Category, as a category can have multiple products but a product can only belong to one category.
-
-* Category has many Product models.
-
-* Product belongs to many Tag models. Using the ProductTag through model, allow products to have multiple tags and tags to have many products.
-
-* Tag belongs to many Product models.
-
-In the future, this project may be refactored for improved efficiency and readability.
-
 # Built With
 * JavaScript
 * HTML
@@ -34,6 +22,7 @@ Clone the repository, navigate to the project folder in your CLI and use the ```
 # Questions
 For additional questions and information, please go to github.com/maxaeon/
 or reach out via email at maparks@ucdavis.edu.
+
 # License
 MIT License
 
