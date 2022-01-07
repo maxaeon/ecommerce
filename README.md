@@ -19,6 +19,13 @@ MySQL2 and Sequelize packages connect the Express.js API to a MySQL database. Th
 # Usage
 Clone the repository, navigate to the project folder in your CLI and use the ```npm run seed``` to seed data to the database and test CRUD routes.
 
+<img width="1133" alt="ecommerce4" src="https://user-images.githubusercontent.com/87254760/148495633-39d08bd4-0dae-4868-800b-2763a9339363.png">
+<img width="1137" alt="ecommerce3" src="https://user-images.githubusercontent.com/87254760/148495636-d770a271-6c7f-4b61-b34e-0cdc1b8a7280.png">
+<img width="1126" alt="ecommerce2" src="https://user-images.githubusercontent.com/87254760/148495637-685efe96-8df5-4e11-a798-7bfa5e9698f8.png">
+<img width="1131" alt="ecommerce1" src="https://user-images.githubusercontent.com/87254760/148495639-89c85109-a20c-44be-8f75-0c414c15a197.png">
+<img width="953" alt="ecommerce" src="https://user-images.githubusercontent.com/87254760/148495641-96c5532f-773f-4621-ba4c-5d28bd059745.png">
+
+
 # Questions
 For additional questions and information, please go to github.com/maxaeon/
 or reach out via email at maparks@ucdavis.edu.
