@@ -25,6 +25,8 @@ Clone the repository, navigate to the project folder in your CLI and use the ```
 <img width="1131" alt="ecommerce1" src="https://user-images.githubusercontent.com/87254760/148495639-89c85109-a20c-44be-8f75-0c414c15a197.png">
 <img width="953" alt="ecommerce" src="https://user-images.githubusercontent.com/87254760/148495641-96c5532f-773f-4621-ba4c-5d28bd059745.png">
 
+Walkthrough: https://youtu.be/W5WwM7JMsu4
+
 # Questions
 For additional questions and information, please go to github.com/maxaeon/
 or reach out via email at maparks@ucdavis.edu.
